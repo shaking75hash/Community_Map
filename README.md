@@ -4,7 +4,7 @@
   <h1>Community Map</h1>
 
 <p>
-  A platform for connecting local communities and sharing important information, created by our goat, our very own Bitto Saha. I am thankful that he is allowing me to do something.
+  A platform for connecting local communities and sharing important information.
     
 </p>
 
@@ -75,7 +75,7 @@
 - Dedicated locked-state UI for unavailable actions
 - Seamless guest sign-out path back to authentication
 
-<div align="justified">
+<div align="center">
   
 ## Use Cases
 </div>
@@ -111,7 +111,7 @@ A first-time visitor enters as a guest to explore feed/map content before creati
 Group owners manage membership requests, monitor participation, and keep group communication organized through chat and moderation tools.
 
 
-<div align="left">
+<div align="center">
   
 ## Architecture
 
